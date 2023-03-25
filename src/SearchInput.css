@@ -1,0 +1,17 @@
+.component-search-input {
+    border-bottom: 1px solid #aa6767;
+  }
+  
+  .component-search-input > div {
+    margin: 0 10px 10px 10px;
+  }
+  
+  .component-search-input input {
+    border-radius: 20px;
+    border: 5px solid #c56868;
+    box-sizing:border-box;
+    font-size: 18px;
+    padding: 10px 10px;
+    width: 100%;
+    
+  }
